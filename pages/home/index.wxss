@@ -1,0 +1,4 @@
+/**index.wxss**/
+.tab-bar {
+  bottom: 0;
+}
