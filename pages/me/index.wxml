@@ -21,30 +21,30 @@
   <view class="service">
     <i-cell-group>
       <i-cell title="服务" is-link="/pages/home/index">
-        <i-icon type="like_fill" slot="icon"/>
+        <i-icon type="like_fill" slot="icon" color="#80848f"/>
       </i-cell>
     </i-cell-group>
   </view>
   <view class="user-assets">
     <i-cell-group>
       <i-cell title="收藏" is-link="/pages/home/index">
-        <i-icon type="like_fill" slot="icon"/>
+        <i-icon type="like_fill" slot="icon" color="#80848f"/>
       </i-cell>
       <i-cell title="朋友圈" is-link="/pages/home/index">
-        <i-icon type="like_fill" slot="icon"/>
+        <i-icon type="like_fill" slot="icon" color="#80848f"/>
       </i-cell>
       <i-cell title="卡包" is-link="/pages/home/index">
-        <i-icon type="like_fill" slot="icon"/>
+        <i-icon type="like_fill" slot="icon" color="#80848f"/>
       </i-cell>
       <i-cell title="表情" is-link="/pages/home/index">
-        <i-icon type="like_fill" slot="icon"/>
+        <i-icon type="like_fill" slot="icon" color="#80848f"/>
       </i-cell>
     </i-cell-group>
   </view>
   <view class="setting">
     <i-cell-group>
       <i-cell title="设置" is-link="/pages/home/index">
-        <i-icon type="like_fill" slot="icon"/>
+        <i-icon type="like_fill" slot="icon" color="#80848f"/>
       </i-cell>
     </i-cell-group>
   </view>

@@ -24,3 +24,9 @@ me-container {
 .service {
   margin-top: 26rpx;
 }
+.user-assets {
+  margin-top: 26rpx;
+}
+.setting {
+  margin-top: 36rpx;
+}
