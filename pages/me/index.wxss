@@ -1,4 +1,26 @@
 /**index.wxss**/
+me-container {
+  background-color: #dddee1;
+}
 .tab-bar {
   bottom: 0;
+}
+.avatar {
+  text-align: center;
+}
+.my-info {
+  display: inline-block;
+  float: right;
+  font-size: 28rpx;
+  text-align: center;
+}
+.wechat-number {
+  font-size: 28rpx;
+  text-align: center;
+}
+.my-detail {
+  margin: 0 24rpx 0 24rpx;
+}
+.service {
+  margin-top: 26rpx;
 }
